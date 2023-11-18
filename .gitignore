@@ -1,0 +1,4 @@
+# Nix builds produce a symlink like this.
+result
+# Direnv likes to store stuff here.
+.direnv/
